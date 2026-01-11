@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm SriJan Karki</h1>
 <h3 align="center">Code. Learn. Improve. Repeat.</h3>
 
-- 👨‍💻 All of my projects are available at  
-  👉 https://srijankarki.vercel.app
-
 ---
 
 <h3 align="center">Connect with me</h3>
