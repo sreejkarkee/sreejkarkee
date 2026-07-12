@@ -69,4 +69,4 @@
 
 ---
 
-⭐ **Keep building. Keep learning.**
+⭐ **Keep building - Keep learning.**
