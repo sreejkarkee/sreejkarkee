@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=230&section=header&text=Srijan%20Karki&fontSize=54&fontColor=e6edf3&fontAlignY=38&animation=fadeIn&desc=%2F%2F%20full-stack%20%C2%B7%20cloud%20%C2%B7%20ai%20%C2%B7%20design&descSize=16&descColor=7d8590&descAlignY=60" width="100%" alt="Srijan Karki" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=230&section=header&text=Srijan%20Karki&fontSize=54&fontColor=e6edf3&fontAlignY=38&animation=fadeIn&desc=%2F%2F%20it%20student%20%C2%B7%20web%20%C2%B7%20cloud%20%C2%B7%20ai%20%C2%B7%20design&descSize=16&descColor=7d8590&descAlignY=60" width="100%" alt="Srijan Karki" />
 
 <div align="center">
 
@@ -17,14 +17,20 @@
 
 <br/>
 
-```ts
-const srijan = {
-  role:      "Full-Stack Developer",
-  focus:     ["Web", "Cloud", "AI / ML", "UI Design"],
-  stack:     ["React", "Node.js", ".NET", "Python"],
-  status:    "building · learning · shipping",
-  reachMe:   "karkisrijan1769@gmail.com",
-};
+```bash
+srijan@github:~$ whoami
+srijan_karki
+
+srijan@github:~$ cat about.txt
+role     : IT Student
+focus    : Web · Cloud · AI/ML · UI Design
+status   : learning · building · shipping
+contact  : karkisrijan1769@gmail.com
+
+srijan@github:~$ ls ~/stack
+languages/  frontend/  backend/  ai-ml/  cloud/  design/
+
+srijan@github:~$ _
 ```
 
 <div align="center">
