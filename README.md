@@ -1,14 +1,71 @@
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3a3f47&height=220&section=header&text=Srijan%20Karki&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20AI%20%C2%B7%20Design&descSize=16&descColor=9ca3af&descAlignY=62" width="100%" alt="Srijan Karki" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreej_karkee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srijan-karki-519838303/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SriJan_1ForU) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karkisrijan1769@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
+<a href="https://github.com/sreejkarkee">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=520&lines=Building+clean%2C+scalable+software;Turning+ideas+into+polished+products;Always+learning%2C+always+shipping" alt="Typing intro" />
+</a>
 
-![](https://streak-stats.demolab.com/?user=sreejkarkee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sreejkarkee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
+<a href="https://linkedin.com/in/srijan-karki-519838303/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:karkisrijan1769@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/sreej_karkee"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://youtube.com/@SriJan_1ForU"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+---
+
+<div align="center">
+
+### `{ stack }`
+
+</div>
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,php&theme=dark" alt="Languages" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,figma&theme=dark" alt="Frontend" />
+
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,mongodb,mysql,mariadb,firebase&theme=dark" alt="Backend" />
+
+**AI / Data**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&theme=dark" alt="AI and Data" />
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify,docker,githubactions,git,github&theme=dark" alt="Cloud and DevOps" />
+
+**Design**<br/>
+<img src="https://skillicons.dev/icons?i=ps,ai,lr,figma&theme=dark" alt="Design" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `{ activity }`
+
+<img src="https://streak-stats.demolab.com/?user=sreejkarkee&theme=github-dark-blue&hide_border=true&background=00000000&ring=9CA3AF&fire=ffffff&currStreakLabel=ffffff&sideLabels=9CA3AF&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub streak" />
+
+<br/>
+
+<img height="150" src="https://github-readme-stats.shion.dev/api?username=sreejkarkee&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&hide_title=true" alt="GitHub stats" />
+<img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sreejkarkee&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&card_width=320" alt="Top languages" />
+
+</div>
+
+<br/>
+
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3f47,100:0d1117&height=100&section=footer" width="100%" alt="" />
