@@ -17,21 +17,11 @@
 
 <br/>
 
-```bash
-srijan@github:~$ whoami
-srijan_karki
+<div align="center">
 
-srijan@github:~$ cat about.txt
-role     : IT Student
-focus    : Web · Cloud · AI/ML · UI Design
-status   : learning · building · shipping
-contact  : karkisrijan1769@gmail.com
+<img src="assets/terminal.svg" width="720" alt="srijan@github:~ terminal: IT Student focused on Web, Cloud, AI/ML and UI Design" />
 
-srijan@github:~$ ls ~/stack
-languages/  frontend/  backend/  ai-ml/  cloud/  design/
-
-srijan@github:~$ _
-```
+</div>
 
 <div align="center">
 
