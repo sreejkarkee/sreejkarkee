@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="assets/terminal.svg" width="720" alt="srijan@github:~ terminal: IT Student focused on Web, Cloud, AI/ML and UI Design" />
+<img src="terminal.svg" width="720" alt="srijan@github:~ terminal: IT Student focused on Web, Cloud, AI/ML and UI Design" />
 
 </div>
 
