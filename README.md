@@ -1,71 +1,51 @@
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3a3f47&height=220&section=header&text=Srijan%20Karki&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%C2%B7%20Cloud%20%C2%B7%20AI%20%C2%B7%20Design&descSize=16&descColor=9ca3af&descAlignY=62" width="100%" alt="Srijan Karki" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=230&section=header&text=Srijan%20Karki&fontSize=54&fontColor=e6edf3&fontAlignY=38&animation=fadeIn&desc=%2F%2F%20full-stack%20%C2%B7%20cloud%20%C2%B7%20ai%20%C2%B7%20design&descSize=16&descColor=7d8590&descAlignY=60" width="100%" alt="Srijan Karki" />
 
 <div align="center">
 
 <a href="https://github.com/sreejkarkee">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1000&color=9CA3AF&center=true&vCenter=true&width=520&lines=Building+clean%2C+scalable+software;Turning+ideas+into+polished+products;Always+learning%2C+always+shipping" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=3FB950&center=true&vCenter=true&width=560&height=30&lines=%24+whoami+%E2%86%92+srijan_karki;%24+git+commit+-m+%22ship+something+great%22;%24+npm+run+build+%E2%80%94+always+learning" alt="Terminal intro" />
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/srijan-karki-519838303/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:karkisrijan1769@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://instagram.com/sreej_karkee"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://youtube.com/@SriJan_1ForU"><img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://linkedin.com/in/srijan-karki-519838303/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=3fb950" alt="LinkedIn" /></a>
+<a href="mailto:karkisrijan1769@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=3fb950" alt="Email" /></a>
+<a href="https://instagram.com/sreej_karkee"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=3fb950" alt="Instagram" /></a>
+<a href="https://youtube.com/@SriJan_1ForU"><img src="https://img.shields.io/badge/YouTube-161b22?style=flat-square&logo=youtube&logoColor=3fb950" alt="YouTube" /></a>
 
 </div>
 
 <br/>
 
----
+```ts
+const srijan = {
+  role:      "Full-Stack Developer",
+  focus:     ["Web", "Cloud", "AI / ML", "UI Design"],
+  stack:     ["React", "Node.js", ".NET", "Python"],
+  status:    "building · learning · shipping",
+  reachMe:   "karkisrijan1769@gmail.com",
+};
+```
 
 <div align="center">
 
-### `{ stack }`
+### `~/stack`
 
-</div>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,php,html,css,react,nodejs,express,django,dotnet,mongodb,mysql,mariadb,firebase,pytorch,tensorflow,sklearn,opencv,numpy,pandas,aws,azure,gcp,cloudflare,vercel,netlify,docker,githubactions,git,github,figma,ps,ai,lr&perline=13&theme=dark" alt="Tech stack" />
 
-<div align="center">
+<br/><br/>
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,py,js,ts,php&theme=dark" alt="Languages" />
+### `~/activity`
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,figma&theme=dark" alt="Frontend" />
+<img src="https://streak-stats.demolab.com/?user=sreejkarkee&theme=github-dark-blue&hide_border=true&background=0d111700&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=7d8590&dates=7d8590" alt="GitHub streak" />
 
-**Backend & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,mongodb,mysql,mariadb,firebase&theme=dark" alt="Backend" />
+<br/>
 
-**AI / Data**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&theme=dark" alt="AI and Data" />
-
-**Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,vercel,netlify,docker,githubactions,git,github&theme=dark" alt="Cloud and DevOps" />
-
-**Design**<br/>
-<img src="https://skillicons.dev/icons?i=ps,ai,lr,figma&theme=dark" alt="Design" />
+<img height="160" src="https://github-readme-stats.shion.dev/api?username=sreejkarkee&show_icons=true&theme=transparent&hide_border=true&hide_title=true&text_color=7d8590&icon_color=3FB950&text_bold=false" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sreejkarkee&layout=compact&theme=transparent&hide_border=true&title_color=3FB950&text_color=7d8590&card_width=320" alt="Top languages" />
 
 </div>
 
 <br/>
 
----
-
-<div align="center">
-
-### `{ activity }`
-
-<img src="https://streak-stats.demolab.com/?user=sreejkarkee&theme=github-dark-blue&hide_border=true&background=00000000&ring=9CA3AF&fire=ffffff&currStreakLabel=ffffff&sideLabels=9CA3AF&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" alt="GitHub streak" />
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.shion.dev/api?username=sreejkarkee&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&hide_title=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sreejkarkee&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9ca3af&card_width=320" alt="Top languages" />
-
-</div>
-
-<br/>
-
-<!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3f47,100:0d1117&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161b22,100:0d1117&height=100&section=footer" width="100%" alt="" />
