@@ -17,23 +17,11 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c222b,100:161b22&height=44&section=header&text=%E2%97%8F%20%20%E2%97%8F%20%20%E2%97%8F%20%20%20%20%20srijan%40github%3A%20~&fontSize=14&fontColor=7d8590&fontAlign=50&fontAlignY=52" width="100%" alt="terminal title bar" />
+<div align="center">
 
-```bash
-srijan@github:~$ whoami
-srijan_karki
+<img src="assets/terminal.svg" width="720" alt="srijan@github:~ terminal: IT Student focused on Web, Cloud, AI/ML and UI Design" />
 
-srijan@github:~$ cat about.txt
-role     : IT Student
-focus    : Web · Cloud · AI/ML · UI Design
-status   : learning · building · shipping
-contact  : karkisrijan1769@gmail.com
-
-srijan@github:~$ ls ~/stack
-languages/  frontend/  backend/  ai-ml/  cloud/  design/
-
-srijan@github:~$ _
-```
+</div>
 
 <div align="center">
 
